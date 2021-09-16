@@ -6,19 +6,19 @@ At a simple level, Git is a file that lives inside a software project that store
 
 # git log 
 
-Please fork and checkout <repo>
+Please fork and checkout [this repo](https://github.com/werner33/Sonnet).
  
-One thing to note, is that we can just as well use Git to collaborate on an essay as on a website. This repo is a poem from. Let's take a look at the commits that have been made unitl this point. We can do this by typing `git log` on the command line.
+One thing to note, is that we can just as well use Git to collaborate on an essay as on a website. This repo is a poem from William Shakespeare. Let's take a look at the commits that have been made until this point. We can do this by typing `git log` on the command line.
  
  Git log will reveal a scrollable list of all previous commits, including their time, date and author. When you are done looking at the commits, feel free to press `q` to exit the log. 
  
- The log keeps track of all committed changes, noting who and when they were committed. 
+ The log keeps track of all committed changes, noting by whom and when they were committed. 
 
 # git reflog 
  
-As we work on an assignment, we may find ourselves sometimes thinking 'Where am I? How did I get here?' Or we realize we made a change that we really don't want to add to the codebase. For this we don't care so much about `git log` but rather `git reflog`. The reflog is a record of where we *personally* have been. 
+As we work on an assignment, we may find ourselves sometimes thinking 'Where am I? How did I get here?' Or we realize we made a change that we really don't want to add to the codebase. For this we don't care so much about `git log` but rather `git reflog`. The reflog is a record of where we *personally* have been in a particular project. 
 
-We haven't done anything yet, but let's go head and check out the reflog. In the terminal type `git reflog`.
+We haven't done much yet, but let's go head and check out the reflog. In the terminal type `git reflog`.
  
 We don't have much to see here yet, but we'll see that this reflog grows as we work through the class. 
  
