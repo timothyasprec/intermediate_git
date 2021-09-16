@@ -66,14 +66,13 @@ Automatic merge failed; fix conflicts and then commit the result.
  
 # Amend a Commit
 
-
+TODO
 
 
 # Squash Unnecessary Commits 
 
-checkout a new branch
-Make three commits, adding something to the same feature each time 
-only want to show third commit but keep all code 
+TODO
 
 # Interactive Rebase to Remove Old Code
 
+TODO
