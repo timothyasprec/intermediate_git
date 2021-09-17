@@ -1,3 +1,7 @@
+# Video of this class can be found [here] (https://us06web.zoom.us/rec/share/KF6XLE355wgu1y87FPuf_0tXEG5OM-1SjXoPyHEIVR4bpqRg9mdJRg7r07GO1qZs.H7DUEOoxTNxh82Tm)
+
+Passcode: U8$Xq@7w
+
 # intermediate_git
 
 Git is one of the most fundamental tools for managing collaboration when writing software. Although you surely have worked with Git since early on in your education at Pursuit. Git is a powerful and varied tool. There is always more to learn to manage workflow, increase harmony in collaboration and make sure that we don't lose important code. 
