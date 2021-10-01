@@ -98,3 +98,4 @@ We're going to end our journey through Git with an interactive rebase. Sometimes
 
 # More Resources
 
+[Git for Four Year Olds](https://www.youtube.com/watch?v=1ffBJ4sVUb4&ab_channel=HackersOnBoard)
