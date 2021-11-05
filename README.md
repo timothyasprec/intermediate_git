@@ -1,7 +1,6 @@
 # Video of this class can be found [here](https://us06web.zoom.us/rec/share/KF6XLE355wgu1y87FPuf_0tXEG5OM-1SjXoPyHEIVR4bpqRg9mdJRg7r07GO1qZs.H7DUEOoxTNxh82Tm)
 
 Passcode: U8$Xq@7w
-CHANGE FROM NJ
 
 # intermediate_git
 
